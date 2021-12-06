@@ -7,4 +7,4 @@ This project contains a jupyter notebook which uses plotly bubble map (https://p
 
 ## data download
 The world cell tower dataset is too large to get uploaded onto github, therefore it needs to be downloaded manually.
-- Download the dataset of World cell towers from "https://www.opencellid.org/downloads.php". Note that an account would need to be created to get the API access token which is required to download data.
+- Download the "Full Database" of World cell towers from "https://www.opencellid.org/downloads.php". Note that an account would need to be created to get the API access token which is required to download data.
